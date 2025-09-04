@@ -1,4 +1,4 @@
-# PROHI Dashboard Example
+# PROHI Dashboard Laura Lemetti LALE7029
 
 **Author**: Laura Lemetti
 <!-- As main author, do not write anything in the line below.

@@ -1,9 +1,9 @@
 # PROHI Dashboard Example
 
-**Author**: [Write your name here]
+**Author**: Laura Lemetti
 <!-- As main author, do not write anything in the line below.
 The collaborator will edit the line below in GitHub -->
-**Collaborator**:
+**Collaborator**: Ding Xiao
 
 _Note that this file is written in **MarkDown** language. A reference is available here: <https://www.markdownguide.org/basic-syntax/>_
 

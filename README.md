@@ -13,9 +13,22 @@ _Here you can include images, like the logo from SU_
 
 ## Introduction
 
-_This template project will contain a simple interactive web dashboard with Streamlit. Feel free to edit this document as desired_
+This project is a simple interactive dashboard built with Streamlit for the PROHI course individual task 2. 
+The dashboard shows input widgets, a table, and a chart with wholesale customer spending. 
 
-## System description
+## Screenshots
+
+![Dashboard Screenshot](./assets/dashboard.jpg)
+![Changed parameters in dashboard Screenshot](./assets/second.jpg)
+![About Screenshot](./assets/about.jpg)
+
+
+## Contributors
+
+_Add the project's authors, contact information, and links to websites or portfolios._
+Laura Lemetti
+lale7029
+lale7029@student.su.se
 
 ### Installation of libraries
 
@@ -53,6 +66,3 @@ Tested on Python 3.12.7 with the following packages:
   - Scikit-Learn v1.7.0
   - shap v0.48.0
 
-## Contributors
-
-_Add the project's authors, contact information, and links to websites or portfolios._
